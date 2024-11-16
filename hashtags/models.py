@@ -14,7 +14,7 @@ class Clothes(models.Model):
     def __str__(self):
         return self.title
 
-Список комментариев с рейтингом
+
 comments = [
     {"text": "Отличная книга!", "rating": 5},
     {"text": "Очень интересно.", "rating": 4},
