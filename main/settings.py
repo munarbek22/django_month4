@@ -29,6 +29,7 @@ INSTALLED_APPS = [
     'hashtags',
     'Basket',
     'cbv',
+    'parsing_litres',
 ]
 
 MIDDLEWARE = [
